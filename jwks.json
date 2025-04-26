@@ -1,8 +1,9 @@
 
 {"keys":[{
-  "alg": "RS256",
-  "cty": "application/json",
-  "jku": "http://localhost:5010/jwks.json",
-  "kid": "server-key",
-  "typ": "JWT"
+  "alg":"RS256",
+  "e":"AQAB",
+  "kid":"server-key",
+  "kty":"RSA",
+  "n":"oka2Biq5S2ttb-ld_yDWjWuhNZDdKJ6-P5bqslgCFIM1rpcJ9KA9euv1bwFogOuZr4KOlihX0lg1PIyCr-xvVOABKTpyZ9mn_uZYjq2ewbkTScQba68PLs7qPrzteCMFSAyeEZ58yx2GkzJHR5WyEyLKVgUY9yjlK33yRh0UgB_H1ovlEiQFx0yWBxlCSUNDedC5dIMdhv6e9zXzHWqQ277HgV_e934FzOh-AP4OUWtMnYu7pr3R8Y5i4yRTM9YlVE4L8i0nUb-yueMhsSCcrTbtwc-1-yQu2kb26awEIU5hIeUJ0dLJvvTZMW1sfcPwMZWJv73aaGBqn_h1qOc7SQ",
+  "use":"sig"
 }]}
