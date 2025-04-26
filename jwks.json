@@ -1,0 +1,8 @@
+
+{"keys":[{
+  "alg": "RS256",
+  "cty": "application/json",
+  "jku": "http://localhost:5010/jwks.json",
+  "kid": "server-key",
+  "typ": "JWT"
+}]}
